@@ -1,6 +1,5 @@
 package com.example.lupus_v2.model.voteStrategy
 
-import android.util.Log
 import com.example.lupus_v2.model.PlayerDetails
 import com.example.lupus_v2.model.manager.RoleVotes
 

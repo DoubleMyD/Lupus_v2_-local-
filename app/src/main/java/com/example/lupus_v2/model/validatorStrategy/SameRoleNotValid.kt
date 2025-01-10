@@ -1,10 +1,8 @@
 package com.example.lupus_v2.model.validatorStrategy
 
-import android.util.Log
 import com.example.lupus_v2.model.PlayerDetails
 import com.example.lupus_v2.model.manager.RoleVotes
 
-private const val TAG = "SameRoleNotValid"
 
 class SameRoleNotValid : ValidatorStrategy(
     types = listOf(ValidatorStrategyType.SameRoleNotValid)
