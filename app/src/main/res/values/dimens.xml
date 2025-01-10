@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--string length -->
+    <dimen name="name_max_length">64dp</dimen>
+    <!--padding -->
+    <dimen name="padding_very_small">4dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_big">32dp</dimen>
+
+    <!--img size -->
+    <dimen name="img_very_small">16dp</dimen>
+    <dimen name="img_small">32dp</dimen>
+    <dimen name="img_medium">64dp</dimen>
+    <dimen name="img_big">128dp</dimen>
+
+    <!--card size -->
+    <dimen name="playerCard_info_height">96dp</dimen>   <!--img_medium + padding_big -->
+    <dimen name="listCard_info_height">96dp</dimen>    <!--img_medium + padding_big -->
+    <dimen name="roleCard_height">96dp</dimen>        <!--img_medium + padding_small -->
+    <dimen name="roleCard_behavior_width">128dp</dimen>
+    <dimen name="roleCard_behavior_height">192dp</dimen>
+
+    <!-- border thickness -->
+    <dimen name="border_very_small">1dp</dimen>
+    <dimen name="border_small">2dp</dimen>
+    <dimen name="border_medium">4dp</dimen>
+    <dimen name="border_big">8dp</dimen>
+
+    <!-- drawer sheet width proportion-->
+    <dimen name="drawer_sheet_open_proportion">0.3</dimen>
+    <dimen name="drawer_sheet_close_proportion">0.1</dimen>
+
+
+</resources>

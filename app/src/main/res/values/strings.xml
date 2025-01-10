@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Lupus_v.2</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="confirm_button">Confirm</string>
+
+    <string name="error_loading_player">Error loading player</string>
+
+    <!--Home Screen strings -->
+    <string name="start_new_game">New Game</string>
+    <string name="load_game">Load Game</string>
+    <string name="settings">Settings</string>
+    <string name="players_archive">Players Archive</string>
+
+    <!--Players Archive Screen strings -->
+    <string name="add_new_player">Add New Player</string>
+    <string name="search_player">Search Player</string>
+    <string name="search_player_placeholder">Name</string>
+    <string name="error_loading_players">Error loading players</string>
+    <string name="delete_player_confirm">Are you sure you want to delete this player?</string>
+
+    <!--Player Edit Screen strings -->
+    <string name="edit_player">Edit Player</string>
+    <string name="insert_name">Insert name</string>
+
+    <!--Player New Screen strings -->
+    <string name="add_player">Add Player</string>
+
+    <!--Lists Archive Screen strings -->
+    <string name="lists_archive">Lists Archive</string>
+    <string name="add_new_list">Add New List</string>
+    <string name="search_list">Search List</string>
+    <string name="search_list_placeholder">Name</string>
+    <string name="add_player_to_list">Add player to list</string>
+    <string name="remove_player_from_list">Remove player from list</string>
+    <string name="insert_list_name">Insert list name</string>
+    <string name="error_loading_lists">Error loading lists</string>"
+
+    <!--List Edit Screen strings -->
+    <string name="edit_list">Edit List</string>
+
+    <!--List New Screen strings -->
+    <string name="add_list">Add List</string>
+
+    <!--Choose Role Screen -->
+    <string name="choose_role">Choose Role</string>
+    <string name="start_game">Start Game</string>"
+    <string name="random_roles_count">Random Roles</string>
+
+    <!--Choose Players Screen strings -->
+    <string name="choose_players">Choose Players</string>
+    <string name="confirm_players">Confirm Players</string>
+
+    <!--Phone Pass Screen -->
+    <string name="phone_pass">Phone Pass</string>
+    <string name="phone_pass_description">Pass the phone to the player indicated. Once you ready, tap the image</string>
+    <string name="next_player">Next Player</string>
+    <string name="show_role">Show Role</string>
+
+    <!--Role Vote Screen strings -->
+    <string name="role_vote">Role Vote</string>
+    <string name="confirm_vote">Confirm Vote</string>
+    <string name="vote">Vote</string>
+    <string name="sure_to_skip_timer">Are you sure you want to skip the timer?</string>
+
+    <!--Role Reveal Screen strings -->
+    <string name="role_reveal">Role Reveal</string>
+
+    <!--Round Result Screen -->
+    <string name="round_result">Round Result</string>
+    <string name="go_to_discuss">Discuss who is the killer</string>
+
+    <!--Discuss Screen strings -->
+    <string name="discussion">Discuss</string>
+    <string name="next_round">Next Round</string>
+
+    <!--Citizien Vote Screen strings -->
+    <string name="skip_vote">Skip vote</string>
+    <string name="vote_not_valid">Vote not valid</string>
+    <string name="start_new_round">Start next round</string>
+    <!--Settings Screen strings -->
+
+    <!--Game Screen strings -->
+
+    <!--Role Event -->
+    <string name="role_event_assassin_killed_players">Assassin Killed %s</string>
+    <string name="role_event_assassin_killed_player_is_cupido">Assassin Killed %s and %s</string>
+    <string name="role_event_facili_costumi_saved_player">Facili Costumi saved %s</string>
+    <string name="role_event_veggente_discover_killer">Veggente discovered %s</string>
+    <string name="role_event_cittadino_killed_players">Cittadino killed %s</string>
+    <string name="search_players">Search player name</string>
+    <string name="selected_players">Selected players</string>
+
+    <string name="players_necessary_to_play">Select %d / %d to play</string>"
+    <string name="players_remaining_to_play">%d players remaining to play</string>
+    <string name="go_to_order_player">Time to start the fire!</string>
+    <string name="game_over">You %s</string>
+</resources>
